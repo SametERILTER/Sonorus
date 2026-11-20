@@ -2,6 +2,26 @@
 
 A modern, high-performance local audio player for Android built with React Native and Expo. The interface draws inspiration from the dot-matrix minimalism of Nothing OS, the fluid ergonomics and tactile sheet transitions of Apple Music, and polished interaction patterns found in leading modern design systems.
 
+<div align="center">
+  <img src="screenshots/ss1.jpeg" alt="Sonorus Home Screen" width="270" />
+</div>
+
+---
+
+## Screenshots
+
+<div align="center">
+
+| Dark & Light Theme | Create Playlists | Song Artwork |
+| :---: | :---: | :---: |
+| <img src="screenshots/home_split.jpeg" alt="Dark & Light Theme" width="250" /> | <img src="screenshots/ss3.jpeg" alt="Create Playlists" width="250" /> | <img src="screenshots/ss4.jpeg" alt="Song Artwork" width="250" /> |
+
+| Synchronized Lyrics | Edit Playlists | Customizable | Crossfade |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/ss5.jpeg" alt="Synchronized Lyrics" width="210" /> | <img src="screenshots/ss6.jpeg" alt="Edit Playlists" width="210" /> | <img src="screenshots/ss7.jpeg" alt="Customizable" width="210" /> | <img src="screenshots/ss8.jpeg" alt="Crossfade" width="210" /> |
+
+</div>
+
 ---
 
 ## Overview
@@ -19,7 +39,7 @@ The application's aesthetic sits at the intersection of several distinct industr
 * **Nothing OS Influence**: Geometric layouts, monochromatic high-contrast palette, and selective use of monospaced and dot-matrix typography (via the Doto and Geist typefaces) to evoke a functional, hardware-inspired instrument feel.
 * **Apple and iOS Interaction Design**: Layered bottom sheet presentations, pill-shaped floating navigation docks, real-time spring physics via Reanimated, and ambient color bleeding from album artwork.
 * **Modern Material Nuance**: Subtle elevation, carefully tuned tap response, and generous touch targets that keep single-handed navigation effortless.
-* **Enforced Light Aesthetic**: Built around a bright `#F9F9F9` canvas with dark contrasting controls and text, ensuring consistent legibility and interface branding regardless of the operating system's system-wide dark mode toggle.
+* **Adaptive Light & Dark Aesthetics**: Crafted with both a crisp `#F9F9F9` light canvas and a deep `#050506` OLED-friendly dark theme, with seamless system-level synchronization or manual theme selection.
 
 ---
 
