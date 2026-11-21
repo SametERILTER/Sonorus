@@ -12,13 +12,52 @@ A modern, high-performance local audio player for Android built with React Nativ
 
 <div align="center">
 
-| Dark & Light Theme | Create Playlists | Song Artwork |
-| :---: | :---: | :---: |
-| <img src="screenshots/home_split.jpeg" alt="Dark & Light Theme" width="250" /> | <img src="screenshots/ss3.jpeg" alt="Create Playlists" width="250" /> | <img src="screenshots/ss4.jpeg" alt="Song Artwork" width="250" /> |
+### Dark & Light Theme
+*Seamless switching between crisp light mode and OLED-friendly dark mode.*
 
-| Synchronized Lyrics | Edit Playlists | Customizable | Crossfade |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/ss5.jpeg" alt="Synchronized Lyrics" width="210" /> | <img src="screenshots/ss6.jpeg" alt="Edit Playlists" width="210" /> | <img src="screenshots/ss7.jpeg" alt="Customizable" width="210" /> | <img src="screenshots/ss8.jpeg" alt="Crossfade" width="210" /> |
+<img src="screenshots/home_split.jpeg" alt="Dark & Light Theme" width="270" />
+
+<br />
+
+### Create & Organize Playlists
+*Build custom playlists with smart sorting, search, and quick-play controls.*
+
+<img src="screenshots/ss3.jpeg" alt="Create Playlists" width="270" />
+
+<br />
+
+### Dynamic Song Artwork & Audio Routing
+*Ambient gradients sampled from album art, plus connected Bluetooth device indicator.*
+
+<img src="screenshots/ss4.jpeg" alt="Song Artwork" width="270" />
+
+<br />
+
+### Synchronized Lyrics
+*Real-time time-synced `.lrc` lyrics with tap-to-seek navigation.*
+
+<img src="screenshots/ss5.jpeg" alt="Synchronized Lyrics" width="270" />
+
+<br />
+
+### Edit Playlists
+*Customize playlist names, preset/custom cover art, and cover alignment.*
+
+<img src="screenshots/ss6.jpeg" alt="Edit Playlists" width="270" />
+
+<br />
+
+### Customizable Appearance
+*Theme preferences, dynamic cover gradients, and batch cover art tools.*
+
+<img src="screenshots/ss7.jpeg" alt="Customizable" width="270" />
+
+<br />
+
+### Crossfade (Experimental)
+*Smooth overlapping transitions between tracks with configurable fade durations.*
+
+<img src="screenshots/ss8.jpeg" alt="Crossfade" width="270" />
 
 </div>
 
